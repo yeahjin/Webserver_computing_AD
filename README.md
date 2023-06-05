@@ -11,3 +11,4 @@
 3.  댓글 추천 기능 (질문댓글 추천과 답변 댓글 추천 기능이 필요하다)
 4. 댓글 수정 횟수 표시 기능   (예를 들어, 질문과 답변 댓글에 대해 n번 수정이 되었음을 나타내는 수치를 표시)
 5. comment view 분리 (03-11 챕터에서 comment view를 comment_question_view와  comment_answer_view 로 두 개의 view 파일로 분리하세요)
+6.  실기 pybo 코드는  아래의 3-15 입니다. 여기서부터 코드를 구현한다. [https://github.com/pahkey/djangobook/tree/3-15](https://github.com/pahkey/djangobook/tree/3-15)
